@@ -1,0 +1,18 @@
+G:\Fdrive\ftfl c#\25-12-14\morepractices\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\bin\Debug\VehicleSpeedCalculatorApp.exe.config
+G:\Fdrive\ftfl c#\25-12-14\morepractices\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\bin\Debug\VehicleSpeedCalculatorApp.exe
+G:\Fdrive\ftfl c#\25-12-14\morepractices\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\bin\Debug\VehicleSpeedCalculatorApp.pdb
+G:\Fdrive\ftfl c#\25-12-14\morepractices\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.csprojResolveAssemblyReference.cache
+G:\Fdrive\ftfl c#\25-12-14\morepractices\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.VechileUI.resources
+G:\Fdrive\ftfl c#\25-12-14\morepractices\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.Properties.Resources.resources
+G:\Fdrive\ftfl c#\25-12-14\morepractices\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.csproj.GenerateResource.Cache
+G:\Fdrive\ftfl c#\25-12-14\morepractices\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.exe
+G:\Fdrive\ftfl c#\25-12-14\morepractices\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.pdb
+D:\Project\28-12-14\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\bin\Debug\VehicleSpeedCalculatorApp.exe.config
+D:\Project\28-12-14\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.exe
+D:\Project\28-12-14\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.pdb
+D:\Project\28-12-14\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\bin\Debug\VehicleSpeedCalculatorApp.exe
+D:\Project\28-12-14\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\bin\Debug\VehicleSpeedCalculatorApp.pdb
+D:\Project\28-12-14\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.csprojResolveAssemblyReference.cache
+D:\Project\28-12-14\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.VechileUI.resources
+D:\Project\28-12-14\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.Properties.Resources.resources
+D:\Project\28-12-14\VehicleSpeedCalculatorApp\VehicleSpeedCalculatorApp\obj\Debug\VehicleSpeedCalculatorApp.csproj.GenerateResource.Cache

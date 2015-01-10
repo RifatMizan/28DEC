@@ -1,0 +1,9 @@
+G:\Fdrive\ftfl c#\25-12-14\morepractices\ResultCalculatorApp\ResultCalculatorApp\bin\Debug\ResultCalculatorApp.exe.config
+G:\Fdrive\ftfl c#\25-12-14\morepractices\ResultCalculatorApp\ResultCalculatorApp\bin\Debug\ResultCalculatorApp.exe
+G:\Fdrive\ftfl c#\25-12-14\morepractices\ResultCalculatorApp\ResultCalculatorApp\bin\Debug\ResultCalculatorApp.pdb
+G:\Fdrive\ftfl c#\25-12-14\morepractices\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.csprojResolveAssemblyReference.cache
+G:\Fdrive\ftfl c#\25-12-14\morepractices\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.StudentResultCalculatorUI.resources
+G:\Fdrive\ftfl c#\25-12-14\morepractices\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.Properties.Resources.resources
+G:\Fdrive\ftfl c#\25-12-14\morepractices\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.csproj.GenerateResource.Cache
+G:\Fdrive\ftfl c#\25-12-14\morepractices\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.exe
+G:\Fdrive\ftfl c#\25-12-14\morepractices\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.pdb
